@@ -12,5 +12,9 @@ Este proyecto se ha dividido en 4 partes:
 
 Para cambiar de ventana pulsar cualquier tecla.
 
+#Notas
+
+Para añadir diferentes imágenes al proyecto incluirlas en la carpeta "Imagenes" y cargarlas en el Main.cpp con la función "imread("Imagenes/nombre.extension")".
+
 
 
