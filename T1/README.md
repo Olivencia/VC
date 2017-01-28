@@ -14,7 +14,7 @@ Para cambiar de ventana pulsar cualquier tecla.
 
 #Notas
 
-Para añadir diferentes imágenes al proyecto incluirlas en la carpeta "Imagenes" y cargarlas en el Main.cpp con la función "imread("Imagenes/nombre.extension")".
+Para añadir diferentes imágenes al proyecto incluirlas en la carpeta "imagenes" y cargarlas en el main.cpp con la función "imread("imagenes/nombre.extension")".
 
 
 
