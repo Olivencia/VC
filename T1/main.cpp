@@ -341,16 +341,16 @@ Mat gaussianPyramid(Mat img, int levels){
 int main() {
 
 	//Imágenes disponibles
-	Mat plane = imread("imagenes/plane.bmp");
-	Mat bird = imread("imagenes/bird.bmp");
-	Mat cat = imread("imagenes/cat.bmp");
-	Mat dog = imread("imagenes/dog.bmp");
-	Mat bike = imread("imagenes/bicycle.bmp");
-	Mat moto = imread("imagenes/motorcycle.bmp");
-	Mat einstein = imread("imagenes/einstein.bmp");
-	Mat marilyn = imread("imagenes/marilyn.bmp");
-	Mat fish = imread("imagenes/fish.bmp");
-	Mat submarine = imread("imagenes/submarine.bmp");
+	Mat plane = imread("T1/imagenes/plane.bmp");
+	Mat bird = imread("T1/imagenes/bird.bmp");
+	Mat cat = imread("T1/imagenes/cat.bmp");
+	Mat dog = imread("T1/imagenes/dog.bmp");
+	Mat bike = imread("T1/imagenes/bicycle.bmp");
+	Mat moto = imread("T1/imagenes/motorcycle.bmp");
+	Mat einstein = imread("T1/imagenes/einstein.bmp");
+	Mat marilyn = imread("T1/imagenes/marilyn.bmp");
+	Mat fish = imread("T1/imagenes/fish.bmp");
+	Mat submarine = imread("T1/imagenes/submarine.bmp");
 
 	///////////////////////////////////////////////////////
 	//////////////////////Ejercicio 1//////////////////////
